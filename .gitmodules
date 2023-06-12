@@ -1,0 +1,6 @@
+[submodule "amd-nv-tool"]
+	path = amd-nv-tool
+	url = https://github.com/PSPReverse/amd-nv-tool.git
+[submodule "PSPTool"]
+	path = PSPTool
+	url = https://github.com/PSPReverse/PSPTool.git
